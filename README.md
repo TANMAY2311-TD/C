@@ -1,2 +1,2 @@
 # C
-basic C language program
+basic C program
